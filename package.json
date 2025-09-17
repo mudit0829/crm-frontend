@@ -2,7 +2,7 @@
   "name": "crm-frontend",
   "version": "1.0.0",
   "description": "CRM Frontend with React and Vite",
-  "main": "src/main.js",
+  "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
