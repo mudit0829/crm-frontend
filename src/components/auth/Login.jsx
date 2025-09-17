@@ -1,14 +1,10 @@
+// src/components/auth/Login.jsx
 import React from 'react';
 
 function Login() {
   return (
     <div>
-      <h2>Login</h2>
-      <form>
-        <input type="text" placeholder="Username" /><br />
-        <input type="password" placeholder="Password" /><br />
-        <button type="submit">Login</button>
-      </form>
+      <h2>Login Form</h2>
     </div>
   );
 }
