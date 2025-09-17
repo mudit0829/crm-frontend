@@ -1,10 +1,10 @@
+// src/components/dashboard/Dashboard.jsx
 import React from 'react';
 
 function Dashboard() {
   return (
     <div>
-      <h2>Dashboard</h2>
-      <p>This is your CRM dashboard.</p>
+      <h2>Dashboard Area</h2>
     </div>
   );
 }
