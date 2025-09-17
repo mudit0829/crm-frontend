@@ -5,7 +5,7 @@ import Dashboard from './components/dashboard/Dashboard.jsx';
 function App() {
   return (
     <div>
-      <h1>CRM Demo</h1>
+      <h1>Welcome to CRM</h1>
       <Login />
       <Dashboard />
     </div>
